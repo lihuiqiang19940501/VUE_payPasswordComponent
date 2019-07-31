@@ -4,6 +4,7 @@ vue支付密码组件,实现6位数字支付密码弹窗,兼容IOS,Android
 ![预览图](https://github.com/z3989883/VUE_payPasswordComponent/blob/master/show.png?raw=true)
 
 ------使用方法------
+
 @hidePwd隐藏组件事件
 @forgetPwd忘记密码事件
 @sendPwd(password)输入6位最后请求事件(参数)
